@@ -45,11 +45,13 @@ the outcome
 
 Developing a digital media outcome involves:
 
-- using appropriate tools, techniques and design elements for the purpose and end
-users
-- applying appropriate data integrity and testing procedures in the development of
-the outcome
-- describing relevant implications
+- you apply appropriate tools, techniques and design elements in developing your digital media outcome
+- you apply an iterative development process to improve and refine your digital media outcome. This includes trialling of the components of the outcome and improvement throughout the design, development and testing process.
+- you have applied information from your planning, testing, and trialling of components to improve the quality of the outcome in the development of your outcome
+
+
+![image](https://user-images.githubusercontent.com/66800975/168454997-2dd7208f-45e3-48b5-b67c-efb9beae892b.png)
+
 
 # Time allowance
 
