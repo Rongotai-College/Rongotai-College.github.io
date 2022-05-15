@@ -64,14 +64,9 @@ Create a website that addresses the need to provide information for local, regio
 
 You will need to:
 
-- consider for which of the following you would like to develop a promotional website:
-    - Onslow Enviro Group
-    - Onslow College Kapa Haka group
-    - Student well-being at Onslow College
-    - another club/group/cause — you must have this approved with your teacher
 - describe the purpose and target audience of the website **in detail**
 - describe the implications relevant to your website and explain how the final design addresses them
-- research the chosen club/group/cause's theme and find relevant design concepts that you will use in your design ideas, including:
+- research the chosen topic theme and find relevant design concepts that you will use in your design ideas, including:
     - website themes and trends
     - content hierarchy
     - typography (typefaces, kerning, leading, tracking)
@@ -81,7 +76,7 @@ You will need to:
 
 You will do this in order to:
 
-- generate a range of design ideas, taking into account the club/group/cause's theme, the target audience, and your research. As part of this, you will:
+- generate a range of design ideas, taking into account the topic theme, the target audience, and your research. As part of this, you will:
     - research relevant website designs and design ideas
     - complete a PMI (plus-minus-interesting) chart for each of at least three (3) researched websites
     - conduct font research and make a selection, clearly stating why it is fit for the purpose and end users
@@ -109,7 +104,7 @@ The finalised design must contain:
 
 The website must contain:
 
-- information and materials to promote a group/club/cause at Onslow College
+- information and materials to inform local, regional or national communities about waterways in New Zealand
 - at least five pages, including:
     - a home page explaining what the website is about
     - easy-to-use navigation
@@ -137,11 +132,11 @@ The deliverables for this project are:
 
 # Required Resources
 
-Click on each link, then save a copy of these documents to your OneDrive. **DO NOT EDIT THESE DOCUMENTS DIRECTLY WITHOUT SAVING A COPY!**
+Links to your work need to be in Google Classroom to these websites:
 
-- [Design Portfolio](https://onslowcollege.sharepoint.com/:w:/s/11DIT499/EUDq-lwmVkVKiysy5VPAz2ABsza6-Y-u_1ETVeyaKYM2rw?e=A1LoxA)
-- [Feedback Sheet](https://onslowcollege.sharepoint.com/:w:/s/11DIT499/EU7Y4J3h9D1PqfpnumnPeHwBBLqMSm0EAUwZtve1fJ5giQ?e=YdGLFR)
-- [Testing](https://onslowcollege.sharepoint.com/:w:/s/11DIT499/EYytzem6TsxIpAQKgc6JYSEBB5mNqkQNR-5oeJyVcFsR2w?e=JY7ReK)
+- [GitHub](https://github.com/):  Repository for all code and instructions
+- [Trello](https://trello.com/home):  Organisational tool for teams and more
+- [Miro](https://miro.com/):  Brainstorming, wireframing, mockups, and more ...
 
 # Assessment Requirements
 
@@ -190,4 +185,4 @@ For Achieved with Excellence, you must:
 
 # Submission
 
-Your portfolio will be submitted through Microsoft Teams, including a link to your website. 
+Your portfolio will be submitted through Google Classroom with all relevant links to evidence of your work. 
