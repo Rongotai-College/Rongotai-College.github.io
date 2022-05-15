@@ -6,7 +6,7 @@ title: Design and Develop a Digital Media Outcome
 | :-- | :-- | :-: | :-: | :-: |
 | [AS91878](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91878.pdf) | Develop a design for a digital outcome | 1 | Internal | 3 |
 | [AS91880](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91880.pdf) | Develop a digital media outcome | 1 | Internal | 4 |
-| [AS91880](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91880.pdf) | Develop a digital media outcome | 1 | Internal | 4 |
+| [AS91884](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91884.pdf) | Develop a digital media outcome | 1 | Internal | 4 |
 
 # Explanation from the standard
 
