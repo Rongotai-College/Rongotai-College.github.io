@@ -43,7 +43,7 @@ the outcome
 | :-- | :-: | --: |
 | Use basic iterative processes to develop a digital outcome | Use basic iterative processes to develop an informed digital outcome |  Use basic iterative processes to develop a refined digital outcome |
 
-Developing a digital media outcome involves:
+Using basic iterative processes to develop a digital outcome involves:
 
 - you apply appropriate tools, techniques and design elements in developing your digital media outcome
 - you apply an iterative development process to improve and refine your digital media outcome. This includes trialling of the components of the outcome and improvement throughout the design, development and testing process.
