@@ -41,13 +41,7 @@ the outcome
 
 | Achievement | Achievement with Merit | Achievement with Excellence |
 | :-- | :-: | --: |
-| Use basic iterative
-processes to develop a
-digital outcome | Use basic iterative
-processes to develop an
-informed digital outcome | Develop a refined digital media outcome | Use basic iterative
-processes to develop a
-refined digital outcome |
+| Use basic iterative processes to develop a digital outcome | Use basic iterative processes to develop an informed digital outcome |  Use basic iterative processes to develop a refined digital outcome |
 
 Developing a digital media outcome involves:
 
