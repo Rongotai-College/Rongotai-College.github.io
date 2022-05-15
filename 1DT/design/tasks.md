@@ -60,7 +60,7 @@ There will be **NO** extensions.
 
 # Task
 
-Create a website to promote a club, group, or cause at Onslow College.
+Create a website that addresses the need to provide information for local, regional or national communities about issues relating to a local waterway or body of water.
 
 You will need to:
 
