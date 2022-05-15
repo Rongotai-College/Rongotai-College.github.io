@@ -50,9 +50,6 @@ Developing a digital media outcome involves:
 - you have applied information from your planning, testing, and trialling of components to improve the quality of the outcome in the development of your outcome
 
 
-![image](https://user-images.githubusercontent.com/66800975/168454997-2dd7208f-45e3-48b5-b67c-efb9beae892b.png)
-
-
 # Time allowance
 
 All work must be done your own.
