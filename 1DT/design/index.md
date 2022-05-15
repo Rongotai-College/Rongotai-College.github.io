@@ -8,7 +8,7 @@ In Design & Digital Media, you will work on a project to design and develop a we
 * Internal assessments (7 credits)
     * [**AS91878**: Develop a design for a digital outcome](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91878.pdf) (3 credits)
     * [**AS91880**: Develop a digital media outcome](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91880.pdf) (4 credits)
-    * [**AS91880**: Use basic iterarative processes to develop a digital outcome](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91880.pdf) (6 credits)
+    * [**AS91884**: Use basic iterative processes to develop a digital outcome](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91884.pdf) (6 credits)
 * External assessments (3 credits)
     * [**AS91886**: Demonstrate understanding of human computer interaction](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91886.pdf) (3 credits)
 
