@@ -37,6 +37,26 @@ users
 the outcome
 - describing relevant implications
 
+## AS91884
+
+| Achievement | Achievement with Merit | Achievement with Excellence |
+| :-- | :-: | --: |
+| Use basic iterative
+processes to develop a
+digital outcome | Use basic iterative
+processes to develop an
+informed digital outcome | Develop a refined digital media outcome | Use basic iterative
+processes to develop a
+refined digital outcome |
+
+Developing a digital media outcome involves:
+
+- using appropriate tools, techniques and design elements for the purpose and end
+users
+- applying appropriate data integrity and testing procedures in the development of
+the outcome
+- describing relevant implications
+
 # Time allowance
 
 All work must be done your own.
