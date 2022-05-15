@@ -1,5 +1,5 @@
 ---
-title: Design and Develop a Digital Media Outcome
+Title: Design and Develop a Digital Media Outcome
 ---
 
 | Standard | Name | Level | Int/Ext | Credits |
