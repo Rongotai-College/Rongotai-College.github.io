@@ -1,7 +1,7 @@
 
 Year 10 – HTML website design – Multi-page website Assessment – Advertising a Product, Service or Event
 
-Introduction
+### Introduction
 
 This assessment is split into 4 parts:
 1.	Research
@@ -9,11 +9,11 @@ This assessment is split into 4 parts:
 3.	Construction
 4.	Evaluation
 
-Overview
+### Overview
 
 Windy Wellington Media is used by a range of organisations to create websites targeted at the New Zealand market. They are experts at tailoring the content and design to meet the unique cultural requirements of New Zealand people. WWM often approach potential clients by producing a concept and pitching it to the given company. WWM would like you to develop a prototype website for a product, Service or Event of your choice.
 
-Brief
+### Brief
 
 You are required to make a multi-page website (at least 4 pages). Being a website aimed at the NZ market it should also be able to display these pages in English and Te Reo Maori (So 8 pages in total). Each page should be linked together and be accessible for any other page. 
 
@@ -37,17 +37,17 @@ Note:
 
 As this is a prototype you will have to provide all the content. This can be from any online source including YouTube, Wikipedia, google, etc.
 
-Assessment Time
+### Assessment Time
 
 The assessment will start on 28/02/22 and finish on Monday 11/04/22. This assessment is open book, you are welcome to review class activities and use online help to aid your work.
 
-Assessment Length: 15 periods of class time, plus students own time.
+### Assessment Length: 15 periods of class time, plus students own time.
 
 The Assessment Specifications
 Outcome development - Analyse their own and others’ outcomes to inform the development of ideas for feasible outcomes
 Find 3 examples of websites you believe are successful in delivering information about a specific topic to a user.
 
-Research on each website should contain:
+### Research on each website should contain:
 
 a.	A screenshot of each website.
 b.	Explain how this website has been designed to appeal to the products target audience and culture. E.g. the use of colour, layout, imagery.
@@ -65,20 +65,21 @@ Technological Knowledge - Understand the properties of subsystems within technol
 Note: This is an open book assessment; you may use in-class work as well as information found online to help you complete the project. 
 Students display understanding of how to apply various HTML and CSS tags (sub-systems) to create a fully functional website. A fully functional website uses a variety of content displayed in a visually pleasing and easy to read manor. All pages are linked together and all links work as intended. 
 
-Website Criteria:
+### Website Criteria:
 a.	The website must be your own work
 b.	The website must incorporate video, Images and text.
 c.	You can use images found online to build your website. These should be altered as needed. 
 d.	Your website should be designed with legibility in mind.
 e.	Your website’s look and feel should relate to the content.
 f.	The text content of each page must be displayed in English and Te Reo.
-Code Criteria:
+### Code Criteria:
 a.	HTML & CSS tags are used.
 b.	CSS is integrated in the most efficient way for each element of your pages.
 c.	Tags are nested within each other correctly to create the desired result.
 d.	Divs are used at the primary structural tags.
 e.	The website uses Title and Meta tags.
 f.	All pages are linked together with Hyperlinks.
+
 Nature of Technology - Understand that technological outcomes are fit for purpose in terms of time and context. Understand the concept of malfunction and how “failure” can inform future outcomes.
 You will complete a self and a peer evaluation sheet analysing your website against the following criteria:
 Is my website easy to use/navigate?
@@ -92,7 +93,7 @@ Am I happy with my website? If so why? If not, what would you change?
 
 
  
-Assessment Marking Schedule
+## Assessment Marking Schedule
 
 Name	
 Criterion A 
