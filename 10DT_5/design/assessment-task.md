@@ -45,15 +45,9 @@ The assessment will start on 28/02/22 and finish on Monday 11/04/22. This assess
 
 The Assessment Specifications
 
-Outcome development - Analyse their own and others’ outcomes to inform the development of ideas for feasible outcomes
-Find 3 examples of websites you believe are successful in delivering information about a specific topic to a user.
+<a href="task"><image src="img/task.svg" title="The Task" width=100><br>The Task
 
-### Research on each website should contain:
 
-a.	A screenshot of each website.
-b.	Explain how this website has been designed to appeal to the products target audience and culture. E.g. the use of colour, layout, imagery.
-c.	Identify any design choices e.g. layout that you might like to use to design your 
-prototype website.
 
 
 
