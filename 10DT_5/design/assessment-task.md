@@ -45,7 +45,7 @@ The assessment will start on 28/02/22 and finish on Monday 11/04/22. This assess
 
 The Assessment Specifications
 
-<a href="task"><image src="https://github.com/Rongotai-College/Rongotai-College.github.io/blob/main/10DT_5/img/assessment_spec_1.jpg" title="The Task" width=100><br>The Task
+<a href="task"><image src="img/assessment_spec_1.jpg" title="The Task" width=100><br>The Task
 
 
 
