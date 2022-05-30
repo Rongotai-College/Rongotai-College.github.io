@@ -57,14 +57,7 @@ The Assessment Specifications
 <a href="task"><image src="https://github.com/Rongotai-College/Rongotai-College.github.io/blob/main/10DT_5/img/assessment_spec_4.jpg?raw=true" title="The Task" width=950>
  
 
-Criterion c 
-Nature of Technology - Understand that technological outcomes are fit for purpose in terms of time and context. Understand the concept of malfunction and how “failure” can inform future outcomes.
-
-	Plan	Task specific
-E	The student completes a compressive evaluation.	The student with minimal guidance completes a comprehensive evaluation of their website. This evaluation is honest and reflects on both the success and failures experienced during this project.
-M	The student completes a detailed evaluation.	The student with minimal guidance completes a detailed evaluation of their website. This evaluation is honest and offers some reflection on both the success and failures experienced during this project.
-A	The student completes an evaluation of their website.	The student with minimal guidance completes a basic evaluation of their website. This evaluation is honest and offers minimal reflection on both the success and failures experienced during this project.
-NA	The student’s evaluation of their website is vague and demonstrates little reflection.	The student’s evaluation is vague and/or unfinished. They have not reflected on the website or how they developed it.
+<a href="task"><image src="https://github.com/Rongotai-College/Rongotai-College.github.io/blob/main/10DT_6/img/assessment_spec_1.jpg?raw=true" title="The Task" width=950>
 
 
 Final Grade	
