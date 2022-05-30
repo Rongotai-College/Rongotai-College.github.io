@@ -49,33 +49,10 @@ The Assessment Specifications
 
 <a href="task"><image src="https://github.com/Rongotai-College/Rongotai-College.github.io/blob/main/10DT_5/img/assessment_spec_2.jpg?raw=true" title="The Task" width=950>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  
 ## Assessment Marking Schedule
 
-Name	
-Criterion A 
-Outcome development - Analyse their own and others’ outcomes to inform the development of ideas for feasible outcomes
-
-	Investigate	Task specific
-E	Has comprehensively researched 3 unique websites.	You have provided in-depth evidence of research via: examining vastly different types of website, multiple webpage variants (specialised sub-pages), Identification and explanation of multiple key design concepts e.g. layout, types of CSS. Explaining design choices in relation to the product/target audience. 
-M	Has thoroughly researched 3 unique websites.	You have provided evidence of research via: examining different types of website, Identification of several key design concepts that may have been used e.g. layout, types of CSS. Explaining design choices in relation to the product/target audience. 
-A	Has researched 3 unique websites.	You have provided evidence of research via: examining 3 websites, Identification of key design concepts may have been completed e.g. Layout, but without detail. Explaining design choices in relation to the product/target audience. 
-N	Has completed limited research.	You have provided evidence of some research via: examination of some websites, limited screenshots, Identification of how key design concepts may have been used. Design choices in relation to the product/target audience have not been identified or explained. This research is vague and/or you have not looked at a minimum of 3 websites. 
+<a href="task"><image src="https://github.com/Rongotai-College/Rongotai-College.github.io/blob/main/10DT_5/img/assessment_spec_3.jpg?raw=true" title="The Task" width=950>
 
 
 Criterion B
