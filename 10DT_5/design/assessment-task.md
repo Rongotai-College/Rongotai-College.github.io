@@ -47,6 +47,7 @@ The Assessment Specifications
 
 <a href="task"><image src="https://github.com/Rongotai-College/Rongotai-College.github.io/blob/main/10DT_5/img/assessment_spec_1.jpg?raw=true" title="The Task" width=950>
 
+<a href="task"><image src="https://github.com/Rongotai-College/Rongotai-College.github.io/blob/main/10DT_5/img/assessment_spec_2.jpg?raw=true" title="The Task" width=950>
 
 
 
@@ -56,30 +57,6 @@ The Assessment Specifications
 
 
 
-Technological Knowledge - Understand the properties of subsystems within technological systems.
-Note: This is an open book assessment; you may use in-class work as well as information found online to help you complete the project. 
-Students display understanding of how to apply various HTML and CSS tags (sub-systems) to create a fully functional website. A fully functional website uses a variety of content displayed in a visually pleasing and easy to read manor. All pages are linked together and all links work as intended. 
-
-### Website Criteria:
-a.	The website must be your own work
-b.	The website must incorporate video, Images and text.
-c.	You can use images found online to build your website. These should be altered as needed. 
-d.	Your website should be designed with legibility in mind.
-e.	Your website’s look and feel should relate to the content.
-f.	The text content of each page must be displayed in English and Te Reo.
-### Code Criteria:
-a.	HTML & CSS tags are used.
-b.	CSS is integrated in the most efficient way for each element of your pages.
-c.	Tags are nested within each other correctly to create the desired result.
-d.	Divs are used at the primary structural tags.
-e.	The website uses Title and Meta tags.
-f.	All pages are linked together with Hyperlinks.
-
-Nature of Technology - Understand that technological outcomes are fit for purpose in terms of time and context. Understand the concept of malfunction and how “failure” can inform future outcomes.
-You will complete a self and a peer evaluation sheet analysing your website against the following criteria:
-Is my website easy to use/navigate?
-Does the design match the product, Service or Event?
-Am I happy with my website? If so why? If not, what would you change?
 
 
 
