@@ -57,7 +57,7 @@ The Assessment Specifications
 <a href="task"><image src="https://github.com/Rongotai-College/Rongotai-College.github.io/blob/main/10DT_5/img/assessment_spec_4.jpg?raw=true" title="The Task" width=950>
  
 
-<a href="task"><image src="https://github.com/Rongotai-College/Rongotai-College.github.io/blob/main/10DT_6/img/assessment_spec_1.jpg?raw=true" title="The Task" width=950>
+<a href="task"><image src="https://github.com/Rongotai-College/Rongotai-College.github.io/blob/main/10DT_6/img/assessment_spec_5.jpg?raw=true" title="The Task" width=950>
 
 
 Final Grade	
