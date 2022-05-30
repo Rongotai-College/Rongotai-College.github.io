@@ -54,22 +54,7 @@ The Assessment Specifications
 
 <a href="task"><image src="https://github.com/Rongotai-College/Rongotai-College.github.io/blob/main/10DT_5/img/assessment_spec_3.jpg?raw=true" title="The Task" width=950>
 
-
-Criterion B
-Technological Knowledge - Understand the properties of subsystems within technological systems.
-
-	Plan	Task specific
-E 	The student has created a High quality website that functions as intended.	The student with minimal guidance creates a high quality website that is “fit for purpose”. The websites design is an excellent match to the content. The page offers two language options in an easy to change way.
-
-The HTML and CSS code has been implemented efficiently and clear understanding of tag relationships is evident due to the Website working as intended.
-M	The student has created a quality website that largely functions as intended.	The student with minimal guidance creates a quality website that is “fit for purpose”. The websites design is a strong match to the content. The page offers two language options in an easy to change way.
-
-The HTML and CSS code has been implemented mostly efficiently and sound understanding of tag relationships is evident due to the Website largely working as intended (One or two minor bugs may be apparent).
-A	The student has created a website that functions, but may have design and/or coding errors. These errors affect usability. 	The student with some guidance creates a basic website that is “fit for purpose”. The websites design may match the content. The page offers two language options.
-
-The HTML and CSS code has been implemented, but isn’t done in an efficient manner. Some understanding of tag relationships is evident due to the Website generally working as intended (Several bugs may be apparent).
-NA	The website is unfinished and/or has many design and code issues that affect usability. 	The website is unfinished, or has many bugs that effect usability. 
-
+<a href="task"><image src="https://github.com/Rongotai-College/Rongotai-College.github.io/blob/main/10DT_5/img/assessment_spec_4.jpg?raw=true" title="The Task" width=950>
  
 
 Criterion c 
