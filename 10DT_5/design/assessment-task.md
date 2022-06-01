@@ -50,17 +50,17 @@ The Assessment Specifications
 
 <a href="task"><image src="https://github.com/Rongotai-College/Rongotai-College.github.io/blob/main/10DT_5/img/assessment_spec_1.jpg?raw=true" title="The Task" width=950>
 
-<a href="task"><image src="https://github.com/Rongotai-College/Rongotai-College.github.io/blob/main/10DT_5/img/assessment_spec_2.jpg?raw=true" title="The Task" width=950>
+<a href="task"><image src="https://github.com/Rongotai-College/Rongotai-College.github.io/blob/main/10DT_5/img/assessment_spec_2.jpg?raw=true" title="The Task" width=1050>
 
  
 ## Assessment Marking Schedule
 
-<a href="task"><image src="https://github.com/Rongotai-College/Rongotai-College.github.io/blob/main/10DT_5/img/assessment_spec_3.jpg?raw=true" title="The Task" width=950>
+<a href="task"><image src="https://github.com/Rongotai-College/Rongotai-College.github.io/blob/main/10DT_5/img/assessment_spec_3.jpg?raw=true" title="The Task" width=1500>
 
-<a href="task"><image src="https://github.com/Rongotai-College/Rongotai-College.github.io/blob/main/10DT_5/img/assessment_spec_4.jpg?raw=true" title="The Task" width=950>
+<a href="task"><image src="https://github.com/Rongotai-College/Rongotai-College.github.io/blob/main/10DT_5/img/assessment_spec_4.jpg?raw=true" title="The Task" width=1500>
  
 
-<a href="task"><image src="https://github.com/Rongotai-College/Rongotai-College.github.io/blob/main/10DT_5/img/assessment_spec_5.jpg?raw=true" title="The Task" width=950>
+<a href="task"><image src="https://github.com/Rongotai-College/Rongotai-College.github.io/blob/main/10DT_5/img/assessment_spec_5.jpg?raw=true" title="The Task" width=1500>
 
 
 Final Grade	
